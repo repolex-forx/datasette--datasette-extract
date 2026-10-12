@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-extract",
+  "versions": [
+    {
+      "commit": "4456f54f0cebf6aee9d0d5f7ee06f5988b34402e",
+      "parsed_at": "2026-10-12T19:29:35.487173+00:00",
+      "tag": "0.3a0",
+      "filetree": "filetree/4456f54f0cebf6aee9d0d5f7ee06f5988b34402e.nq.gz",
+      "blobs": [
+        "blob/0d25eba987fb60d3a9c7f24c033b6d9a333e92ea.nq.gz",
+        "blob/6a0888c40f0230316524a86e9170e6e5d4509fe7.nq.gz",
+        "blob/cc91a5279aeec0bc0eb85688744df1280a895d93.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/dbbe30ad39a64f2a335ad59736dcaa8bc0fdd9ce.nq.gz",
+        "blob/d49d309499efb2c0c1d38efdd53056249a7d74d8.nq.gz",
+        "blob/3eb871944ba060e652582342cecb018b41f78bda.nq.gz",
+        "blob/f4ae73edce9ec5d061659caf0f328bdff701ced5.nq.gz",
+        "blob/3334a3c009f25a2c8b9512b847f8869090f8e8db.nq.gz",
+        "blob/3760d9298c95ef38b9eaa7e4f89eee03c5872494.nq.gz",
+        "blob/dd3d4e8906d3ca043602e1ae5151b038eb71832a.nq.gz",
+        "blob/8b7614194523a8af3a358edf9186a3a09241dab6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
