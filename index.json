@@ -1,0 +1,11 @@
+{
+  "org": "datasette",
+  "repo": "datasette-extract",
+  "versions": [
+    {
+      "commit": "4456f54f0cebf6aee9d0d5f7ee06f5988b34402e",
+      "tag": "0.3a0",
+      "parsed_at": "2026-10-12T19:31:42.170996+00:00"
+    }
+  ]
+}
